@@ -34,6 +34,6 @@ module.exports = {
 etherscan: {
   // Your API key for Etherscan
   // Obtain one at https://etherscan.io/
-  apiKey: process.env.polygonApiKey
+  apiKey: 'DMCNJ8IB7Q1C91ZQKDAFEAHY5C514DKMMI'
 },
 }
