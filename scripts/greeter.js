@@ -6,7 +6,9 @@
 const hre = require("hardhat");
 const key = "newabc2"
 
-const AWS_KEY = "testing"
+const ANVA = "testing"
+const code = "testing"
+
 async function main() {
   // Hardhat always runs the compile task when running scripts with its command
   // line interface.
