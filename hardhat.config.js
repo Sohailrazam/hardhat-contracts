@@ -28,7 +28,7 @@ module.exports = {
     polygonMumbai: {
       url: "https://rpc-mumbai.maticvigil.com	",
       chainId: 80001,
-      accounts: [process.env.mumbai_account],
+      accounts: "dsfasjdflkjasdklfjk23j4kl32qjkr",
     },
 },
 etherscan: {
