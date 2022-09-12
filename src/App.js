@@ -1,12 +1,9 @@
 import './App.css';
 
 function App() {
-const password = "abcuser";
-const key = "newabc2"
 
-const ANVA = "testing"
-const code = "testing"
-const codeNew = "testingNew"
+  const secret = "Xjsd423lsdn324";
+
   return (
     <div className="App">
 
